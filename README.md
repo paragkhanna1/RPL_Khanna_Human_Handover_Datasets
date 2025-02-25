@@ -5,7 +5,7 @@ Collection of Several Human-to-Human Handover Datasets created at RPL-KTH
 
 A Sensor Embedded Object Transfer, Weight classes 0.8 and 1.8 kg
 
-Giver Taker Grip forces, Interaction F/T data, Human Upper Skeletal Tracking, 
+Giver Taker Grip forces, Interaction F/T data, Human Upper Skeletal Tracking, Object Tracking.
 
 https://github.com/paragkhanna1/dataset
 
@@ -13,7 +13,7 @@ https://github.com/paragkhanna1/dataset
 
 Sensor Embedded Object Transfer, Weight classes 1.0,1.2,1.4,1.6,2.0 kg.
 
-Giver Taker Grip forces, Interaction F/T data, Human Upper Skeletal Tracking, Object Tracking
+Giver Taker Grip forces, Interaction F/T data, Human Upper Skeletal Tracking, Object Tracking.
 
 Link: TBD
 
