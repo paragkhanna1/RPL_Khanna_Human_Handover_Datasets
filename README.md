@@ -15,7 +15,7 @@ Sensor Embedded Object Transfer, Weight classes 1.0,1.2,1.4,1.6,2.0 kg.
 
 Giver Taker Grip forces, Interaction F/T data, Human Upper Skeletal Tracking, Object Tracking.
 
-Link: TBD
+Link: https://github.com/paragkhanna1/Handovers-RPL2.0
 
 **Dataset 3: YCB-Handovers.**
 
@@ -23,4 +23,4 @@ Human Handovers of selected objects from YCB dataset.
 
 Human Upper Skeletal Tracking
 
-Link: TBD
+Link: https://github.com/paragkhanna1/YCB-Handovers
